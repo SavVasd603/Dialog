@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Dialog</string>
+
+
+
+
+    <string-array name="dropdown_items">
+        <item>Элемент 1</item>
+        <item>Элемент 2</item>
+        <item>Элемент 3</item>
+        <item>Элемент 4</item>
+        <item>Элемент 5</item>
+        <item>Элемент 6</item>
+    </string-array>
+
+</resources>
